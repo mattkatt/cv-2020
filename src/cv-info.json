@@ -1,0 +1,109 @@
+{
+  "info": {
+    "name": "Matt Evans",
+    "title": "Developer & Graphic Designer",
+    "contact": {
+      "address": "20 Seaview Terrace, Swansea, SA1 6FE",
+      "email": "matt.s.evans@outlook.com",
+      "tel": "07488247986"
+    },
+    "links": {
+      "Github": "github.com/mattkatt",
+      "Codepen": "codepen.io/mk-mattevans"
+    },
+    "summary": "Front-End Developer with PHP and Full-Stack experience, coming from a graphic design background and with professional experience in both customer-service and technical roles. Highly adaptable, quick to learn, and able to juggle multiple tasks. A versatile creative with skills working as part of a team or individually on projects."
+  },
+  "skills": {
+    "Web Development": [
+      "HTML5, CSS (Sass, Less)",
+      "Javascript (jQuery, Vue.js)",
+      "PHP (Laravel, Drupal, Some Wordpress)",
+      "MySQL",
+      "Apache2/Nginx",
+      "GIT version control (Github)",
+      "API development (Postman)",
+      "Release management (Ansible, CircleCI)"
+    ],
+    "Graphic/Communication Design": [
+      "Typography",
+      "Layout Design",
+      "Colour Theory",
+      "Adobe Suite (Illustrator, Photoshop, InDesign)",
+      "Artistic/Illustration",
+      "Photography"
+    ],
+    "Sales/People Skills": [
+      "Time Management",
+      "Supervisory Experience",
+      "Customer Services",
+      "Collaboration"
+    ],
+    "Personal Skills": [
+      "Problem Solving",
+      "Adaptability",
+      "Strong Work Ethic",
+      "Critical Thinking"
+    ]
+  },
+  "experience": [
+    {
+      "date": "May 2017 - Present",
+      "company": "UKDS",
+      "location": "Bridgend, UK",
+      "title": "Front-end Developer/Graphic Designer",
+      "bio": "UKDS BIO HERE"
+    },
+    {
+      "date": "Nov 2015 - Dec 2016",
+      "company": "Alphagraphics",
+      "location": "New Brunswick, NJ",
+      "title": "Bindary Operator",
+      "bio": "Bindery operations included cutting, folding, and binding of printed materials. Other duties included cutting and mounting of large format signage, on-site installations, and maintaining and monitoring envelope printers and inserters. Responsibilities include maintaining the workshop floor and monitoring stock levels."
+    },
+    {
+      "date": "June  2014 - July 2015",
+      "company": "Gariel Screen Printing",
+      "location": "West Deptford, NJ",
+      "title": "Web Developer",
+      "bio": "Update and redesigning the company website. This role included modernisation of the HTML to current web standards, as well as a complete graphical and layout redesign. Challenges included creating a design colour preview app from scratch, and being unable to alter the back-end PHP."
+    },
+    {
+      "date": "April 2014 - July 2015",
+      "company": "Gariel Screen Printing",
+      "location": "West Deptford, NJ",
+      "title": "Print Room Assistant",
+      "bio": "Assisting in the day to day running of the screen printing workshop. Primary duties included maintaining, screening and burning silk screens for use in both manual and automatic printing machines. Other duties included maintaining back-room workshop, negative filing, and occasional print-room relief during busy periods."
+    },
+    {
+      "date": "June 2013 - April 2019",
+      "company": "Bunbury Magazine",
+      "location": "Online",
+      "title": "Layout Editor",
+      "bio": "Creating and maintaining layouts and styling for Bunbury magazine. Managing colour themes and typeface, as well as creating typography, illustrations, and graphical assets as required."
+    }
+  ],
+  "education": [
+    {
+      "date": "2009-2011",
+      "institution": "University of Wales Trinity St David, Swansea",
+      "qualifications": [
+        "Level 4 Diploma, Foundation Art and Design"
+      ]
+    },
+    {
+      "date": "2009",
+      "institution": "CADCentre, Swansea",
+      "qualifications": [
+        "Level 3 Diploma, CAD NVQ",
+        "Level 2 Diploma, ICT NVQ"
+      ]
+    },
+    {
+      "date": "2005-2008",
+      "institution": "University of Wales Swansea, Swansea",
+      "qualifications": [
+        "Certificate of Education, Material Science and Engineering"
+      ]
+    }
+  ]
+}
