@@ -9,11 +9,16 @@ import cvInfo from '@/cv-info.json'
 
 @Component({
   components: {
-    CV,
+    CV
   }
 })
 export default class App extends Vue {
   cvInfo: object = cvInfo
+  title = "Matt Evans CV"
+
+  mounted() {
+    document.title = this.title
+  }
 }
 </script>
 
