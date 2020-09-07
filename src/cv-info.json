@@ -9,7 +9,8 @@
     },
     "links": {
       "Github": "github.com/mattkatt",
-      "Codepen": "codepen.io/mk-mattevans"
+      "Codepen": "codepen.io/mk-mattevans",
+      "LinkedIn": "linkedin.com/in/matt-evans-57934487"
     },
     "summary": "Front-End Developer with PHP and Full-Stack experience, coming from a graphic design background and with professional experience in both customer-service and technical roles. Highly adaptable, quick to learn, and able to juggle multiple tasks. A versatile creative with skills working as part of a team or individually on projects."
   },
@@ -17,7 +18,8 @@
     "Web Development": [
       "HTML5, CSS (Sass, Less)",
       "Javascript (jQuery, Vue.js)",
-      "PHP (Laravel, Drupal, Some Wordpress)",
+      "PHP (Laravel, Drupal)",
+      "OOP and SOLID principles",
       "MySQL",
       "Apache2/Nginx",
       "GIT version control (Github)",
@@ -25,6 +27,7 @@
       "Release management (Ansible, CircleCI)"
     ],
     "Graphic/Communication Design": [
+      "UI/UX",
       "Typography",
       "Layout Design",
       "Colour Theory",
@@ -41,7 +44,6 @@
     "Personal Skills": [
       "Problem Solving",
       "Adaptability",
-      "Strong Work Ethic",
       "Critical Thinking"
     ]
   },
@@ -51,7 +53,7 @@
       "company": "UKDS",
       "location": "Bridgend, UK",
       "title": "Front-end Developer/Graphic Designer",
-      "bio": "UKDS BIO HERE"
+      "bio": "Role:\nResponsible for general upkeep and improvement of existing products, while designing\nand developing new projects at the request of the directors. Also responsible for all\ngraphic design aspects and needs of the group at an ad hoc basis.\nUKDS is part of a group of companies, and is responsible for the technical requirements\nof all other companies within the group. Group includes solicitors, accountants, datarecovery specialist, and social media management.\nProjects:\n- Vue Application: Developed new Vue.js/Laravel 7 applications for new arm of existing\nbusiness. Project included building two separate Vue.js applications, one using a\nNuxt.js server and the other on a LAMP-Stack, which interacted with a custom Laravel\n7 API server. Also involved utilising Progressive Web Application (PWA) technology,\ndeveloping with third-party APIs, and implementing CircleCI deployment.\n- WordPress Blog: Setup new WordPress blog site for local political entity. Involved\ncomplete design and several minor custom elements. Project received with tight\ndeadline, and completed within two weeks.\n- Multi-lingual Information Site: Created a single Laravel 6 site that could be deployed\nto separate servers, each of which hosted a diﬀerent language-based environment\nin diﬀerent countries. Project included full graphical design, language translation\nimplementation and Ansible script deployment.\n- Existing Site Rebuild/Redesign: Updated existing site to use Laravel 5 over previous\nSymphony build, along with new design. Implemented CMS-style application structure\nto allow simple content updates and integrated blog.\n- Data Recovery Partner Portal: Created and deployed LAMP-Stack Laravel 5 web\nportal for potential shop-partners to submit resold/referred recovery jobs. Project\nincluded tight deadline, with initial release within two weeks, and further development\nof additional features over six weeks.\n- Laravel Site w/ Payment Checkout: Designed and developed front-end of new\nLaravel 5 site, including integrated blog, multiple payment APIs (SagePay, GoCardless,)\nand custom invoice PDF generation.\nPersonal Accomplishments:\n- Reduced loading time of existing company websites from 7+ second to sub-3 seconds,\nreducing customer drop-oﬀ and improving Google search ranking.\n- Assisted senior developer in implementing Agile-methodology (Kanban) of sofware\ndevelopment across the team.\n- Mentored junior developer on both front and back-end development processes and\nbest practices."
     },
     {
       "date": "Nov 2015 - Dec 2016",
@@ -83,6 +85,27 @@
     }
   ],
   "education": [
+    {
+      "date": "2020 (Ongoing)",
+      "institution": "Udemy (Self-study)",
+      "qualifications": [
+        "Vue.js - The Complete Guide (Maxamillion Schwarzmuller)"
+      ]
+    },
+    {
+      "date": "2018",
+      "institution": "Laracasts (Self-study)",
+      "qualifications": [
+        "Laravel 5.7 From Scratch (Jeffrey Way)"
+      ]
+    },
+    {
+      "date": "2013",
+      "institution": "Codecademy (Self-study)",
+      "qualifications": [
+        "Introduction to JavaScript"
+      ]
+    },
     {
       "date": "2009-2011",
       "institution": "University of Wales Trinity St David, Swansea",

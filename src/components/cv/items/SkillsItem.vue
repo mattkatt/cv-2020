@@ -1,6 +1,6 @@
 <template>
   <li>
-    {{ title }}
+    <b>{{ title }}</b>
     <ul>
       <li v-for="(skill, index) in item" :key="index">{{ skill }}</li>
     </ul>
