@@ -5,6 +5,7 @@
       <Skills v-if="key === 'skills'" :skills="value"/>
       <Experience v-if="key === 'experience'" :experience="value"/>
       <Education v-if="key === 'education'" :education="value"/>
+      <Interests v-if="key === 'interests'" :interests="value"/>
     </section>
   </main>
 </template>
@@ -15,13 +16,15 @@ import Info from '@/components/cv/Info.vue'
 import Skills from '@/components/cv/Skills.vue'
 import Experience from '@/components/cv/Experience.vue'
 import Education from '@/components/cv/Education.vue'
+import Interests from '@/components/cv/Interests.vue'
 
 @Component({
   components: {
     Info,
     Skills,
     Experience,
-    Education
+    Education,
+    Interests
   }
 })
 export default class CV extends Vue {
