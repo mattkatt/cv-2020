@@ -21,7 +21,9 @@ npm run lint
 ```
 
 ### Running test scripts found in `/tests`
+```
 npm t
+```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
